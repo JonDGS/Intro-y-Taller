@@ -1,0 +1,1 @@
+Version de Python utilizada: 3.6.4 de 64bits
