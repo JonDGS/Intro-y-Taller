@@ -1,0 +1,34 @@
+{
+  "players": [
+    {
+      "username": "Primero",
+      "total": 20,
+      "laps": 8,
+      "hits": 12
+    },
+    {
+      "username": "Jhon",
+      "total": 20,
+      "laps": 8,
+      "hits": 12
+    },
+    {
+      "username": "Jugador",
+      "total": 20,
+      "laps": 8,
+      "hits": 12
+    },
+    {
+      "username": "Jugador",
+      "total": 20,
+      "laps": 8,
+      "hits": 12
+    },
+    {
+      "username": "Jugador",
+      "total": 20,
+      "laps": 8,
+      "hits": 12
+    }
+  ]
+}
